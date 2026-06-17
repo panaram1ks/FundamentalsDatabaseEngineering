@@ -1,3 +1,5 @@
+https://docs.google.com/document/d/1fgo1hfkFp4L_Uz01VT4y9lMXk8s7K53nwT6GcSN_ouU/edit?hl=RU&pli=1&tab=t.0
+
 # присоединиться к контейнеру
 docker exec -it <container_name> bash
 
